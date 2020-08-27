@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-angular-852e3": {
+      "hosting": {
+        "tic-tac-angular": [
+          "tic-tac-angular-852e3"
+        ]
+      }
+    }
+  }
+}
